@@ -5,6 +5,13 @@ DYNAMIC ARRAY EXAMPLE
 <img width="1632" height="643" alt="image" src="https://github.com/user-attachments/assets/03312045-773b-46cd-9fbc-ab44c97c5a59" />
 
 NAME TO NUMBER
-<img width="1548" height="591" alt="image" src="https://github.com/user-attachments/assets/2e881e62-49e6-4071-bfa4-805b97c2c4b3" />
+
+READ FILE EXAMPLE
+<img width="1727" height="653" alt="image" src="https://github.com/user-attachments/assets/8d23a905-b7e2-49ce-9fa4-98a79f63327c" />
+
+EMAIL VALIDATOR
+<img width="1773" height="638" alt="image" src="https://github.com/user-attachments/assets/ccf76a8e-d4a2-4df7-9790-79332761bfe5" />
+
+
 
 
